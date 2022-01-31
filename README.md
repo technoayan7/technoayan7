@@ -11,5 +11,5 @@
 
 [![LinkedIn Icon](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/technoayan/)
 
-[![CodeChef Icon](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb) CodeChef](https://www.codechef.com/users/technoayan7)
+[![CodeChef Icon]() CodeChef](https://www.codechef.com/users/technoayan7)
 
