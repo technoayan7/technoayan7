@@ -1,7 +1,7 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Ayan</h1>
 <h3 align="center">A Passionate Techy Guy 👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif">
+<img align="right" alt="Coding" width="400" height="280" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technoayan7&label=Profile%20views&color=0e75b6&style=flat" alt="technoayan7" /> </p>
 
