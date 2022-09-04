@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **ayanahmad7052@gmail.com**
 
-- 💬 Ask me about **HTML,CSS.**
+- 💬 Ask me about **HTML,CSS,Javascript,React JS.**
  
-- 💻 Check Out My Latest Project **<a href="https://technoayan77.github.io/technoayan7-Final-Task/" target="blank">Harry Potter</a>**
+- 💻 Check Out My Latest Project **<a href="https://technoayan7.github.io/EFFE-WEBD/" target="blank">Effervescence landing page</a>**
  
 - ⚡ Fun fact **I think I am funny 😂**
 
