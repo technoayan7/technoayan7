@@ -76,6 +76,7 @@
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sultan__&layout=compact&hide_border=true" height="200" />
     </picture>
 </div>
+
 <br/>
 <hr>
 
